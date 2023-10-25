@@ -1,0 +1,165 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fffde9;
+}
+
+.logo {
+    font-family: Irish Grover;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: 48px;
+    letter-spacing: 0em;
+    text-align: left;
+    background: linear-gradient(267.76deg, #BE1BE7 1.88%, #E31C64 93.56%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.logo-img {
+    margin-right: -12px;
+    width: 40px;
+    height: 35px;
+}
+
+.img-arrow {
+    width: 25px;
+    height: 25px;
+    top: 8px;
+    left: 588px;
+    padding: 7.03px, 7.03px, 7.03px, 7.03px;
+    border-radius: 5px;
+
+}
+
+#next-icon {
+    width: 500px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid black;
+    background-color: transparent;
+}
+
+.my_form {
+    display: flex;
+    align-items: center;
+
+}
+
+#button-connect {
+    width: 140px;
+    height: 40px;
+    font-family: Poppins;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    background: linear-gradient(93.18deg, #BE1BE7 0%, #E31C64 103.47%);
+    border-radius: 10px;
+    border-image-source: linear-gradient(93.18deg, #BE1BE7 0%, #E31C64 103.47%);
+}
+
+
+.menu_icon1,
+.menu_icon2 {
+    width: 30px;
+    height: 30px;
+}
+
+.menu_icon3 {
+    width: 48px;
+    height: 48px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.sec-harvey {
+    display: flex;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.sec-harvey1 {
+    width: 50%;
+
+}
+
+.h_child {
+    color: black;
+    text-transform: capitalize;
+    font-family: Rock Salt;
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    text-align: left;
+    width: 500px;
+}
+
+#best {
+    color: #E31C64;
+
+}
+
+#best2 {
+    color: #BE1BE7;
+}
+
+.p_child {
+    font-family: Risque;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 0.1em;
+    text-align: left;
+    width: 600px;
+    margin-top: -20px;
+}
+
+.sec-harvey2 {
+    width: 55%;
+    margin-left: -50px;
+}
+
+.sect_img {
+    width: 200px;
+    height: 120px;
+    top: 196px;
+    left: 1146px;
+    border-radius: 16px;
+    padding-right: 10px;
+}
+
+.sect1_img {
+    width: 200px;
+    height: 120px;
+    top: 196px;
+    left: 1146px;
+    border-radius: 16px;
+    padding-right: 10px;
+}
+
+.sect2_img {
+    width: 200px;
+    height: 120px;
+    top: 196px;
+    left: 1146px;
+    border-radius: 16px;
+}
+
+.sect3_img {
+    width: 630px;
+    height: 200px;
+    top: 196px;
+    left: 1146px;
+    border-radius: 24px;
+    margin-block: 20px;
+}
